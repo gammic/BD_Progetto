@@ -15,3 +15,8 @@ Il progetto ha lo scopo di testare e analizzare le prestazioni di due sistemi No
 
 ## Dataset
 In questa cartella drive (https://drive.google.com/drive/folders/1OpooVZ3NNstmdWizcjF7tVph5eJWUubv?usp=drive_link) sono presenti il dataset in formato .csv e .json. Scaricarli ed inserirli nella stessa cartella degli script.
+
+## File
+Il file document creator serve per creare i documenti, ovvero crea il json partendo dal csv.
+I file couch_creator e mongo_creator creano i database.
+I file couch_analysis e mongo_analysis sottopongono i sistemi all'analisi tramite esecuzione di 8 query.
