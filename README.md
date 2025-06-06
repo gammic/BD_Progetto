@@ -14,4 +14,4 @@ Il progetto ha lo scopo di testare e analizzare le prestazioni di due sistemi No
 - **CouchDB** e **MongoDB** (installati e configurati correttamente)
 
 ## Dataset
-In questa cartella drive (https://drive.google.com/drive/folders/1OpooVZ3NNstmdWizcjF7tVph5eJWUubv?usp=drive_link) sono presenti il dataset in formato .csv e .json.
+In questa cartella drive (https://drive.google.com/drive/folders/1OpooVZ3NNstmdWizcjF7tVph5eJWUubv?usp=drive_link) sono presenti il dataset in formato .csv e .json. Scaricarli ed inserirli nella stessa cartella degli script.
